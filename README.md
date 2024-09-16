@@ -1,6 +1,6 @@
 <div align="center">
 
-# MHR Item set Auto Resupply Mod
+# MHR Item Set Auto Resupply Mod
 
 </div>
 
