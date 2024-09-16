@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/dzxrly/MHR-ItemSetAutoResupplyMod?style=for-the-badge)](https://github.com/dzxrly/MHR-ItemSetAutoResupplyMod/blob/main/LICENSE) [![Static Badge](https://img.shields.io/badge/Nexusmods-Auto%20Resupply%20Item%20Set-%23d28934?style=for-the-badge)](https://www.nexusmods.com/monsterhunterrise/mods/1088)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHR-ItemSetAutoResupplyMod%2Fmain%2Fversion.json&query=%24.version&style=for-the-badge&label=VERSION) [![GitHub License](https://img.shields.io/github/license/dzxrly/MHR-ItemSetAutoResupplyMod?style=for-the-badge)](https://github.com/dzxrly/MHR-ItemSetAutoResupplyMod/blob/main/LICENSE) [![Static Badge](https://img.shields.io/badge/Nexusmods-Auto%20Resupply%20Item%20Set-%23d28934?style=for-the-badge)](https://www.nexusmods.com/monsterhunterrise/mods/1088)
 
 </div>
 
