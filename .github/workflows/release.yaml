@@ -22,8 +22,14 @@ jobs:
       - name: Create a zip of the directory
         run: zip -r ItemSetAutoResupply.zip reframework
 
+      - name: Check if release exists and delete it
+        run: |
+          if gh release view ${{ github.ref_name }}; then
+            gh release delete ${{ github.ref_name }} --yes
+          fi
+
       - name: Create GitHub Release
         id: create_release
         run: |
-          gh release create ${{ github.ref_name }} ItemSetAutoResupply.zip --title "Release ${{ github.ref_name }}" --notes "Release for ${{ github.ref_name }}" --replace
+          gh release create ${{ github.ref_name }} ItemSetAutoResupply.zip --title "${{ github.ref_name }} Release" --notes "Release for ${{ github.ref_name }}" --replace
 
