@@ -1,8 +1,18 @@
+<div align="center">
+
 # MHR Item set Auto Resupply Mod
 
-A mod of Monster Hunter Rise (Sunbreak) for resupply item set when quest finished automatically. / 用于怪物猎人崛起（含曙光）的任务完成时自动加载预设的个人道具组合Mod。
+</div>
 
-## EN Ver Introduction
+<div align="center">
+
+[![GitHub License](https://img.shields.io/github/license/dzxrly/MHR-ItemSetAutoResupplyMod?style=for-the-badge)](https://github.com/dzxrly/MHR-ItemSetAutoResupplyMod/blob/main/LICENSE) [![Static Badge](https://img.shields.io/badge/Nexusmods-Auto%20Resupply%20Item%20Set-%23d28934?style=for-the-badge)](https://www.nexusmods.com/monsterhunterrise/mods/1088)
+
+</div>
+
+A mod of Monster Hunter Rise (SunBreak) for resupply item set when quest finished automatically. / 用于怪物猎人崛起（含曙光）的任务完成时自动加载预设的个人道具组合Mod。
+
+## Introduction
 
 This mod can automatically resupply at the end of a mission according to a preset combination of item sets.
 
@@ -21,7 +31,7 @@ This mod can automatically resupply at the end of a mission according to a prese
 - 
 ---
 
-## CHS Ver Introduction/简体中文说明
+## 说明
 
 这个MOD可以在你完成任务时自动加载你的道具个人组合。（因为REFramework的编码问题，我目前还没找到显示中文个人组合名称的方法，现在会显示成 ???）
 
