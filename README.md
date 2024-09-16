@@ -12,39 +12,33 @@
 
 A mod of Monster Hunter Rise (SunBreak) for resupply item set when quest finished automatically. / 用于怪物猎人崛起（含曙光）的任务完成时自动加载预设的个人道具组合Mod。
 
-## Introduction
+---
 
-This mod can automatically resupply at the end of a mission according to a preset combination of item sets.
-
-### Requirements:
+## Requirements:
 - [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26)
 - [REFramework D2D](https://www.nexusmods.com/monsterhunterrise/mods/134)
 
-### How To Install:
+## How To Install:
 1. Install REFramework and REFramework D2D;
 2. Download the mod;
 3. Unzip the mod to the Monster Hunter Rise root directory. So the final directory seems like ./reframework/autorun/itemSetAutoResupply.lua.
 
-### How To Use:
+## How To Use:
 - First Use:  (1) Open REFramework menu and unfold the Script Generated UI menu item. You will find the Item Set Auto Resupply window. (2) Click the Reload Item Set List button to read your item set list. (3) Select an item set you want to use then there is a tip "Item Set Has Been Set To [xxx]" below. It means your selection has been saved and the mod is working!
 - No First Use: When you select your item set following the above steps, you don't need to do any more operations, the mod will work automatically.
-- 
+
 ---
 
-## 说明
-
-这个MOD可以在你完成任务时自动加载你的道具个人组合。（因为REFramework的编码问题，我目前还没找到显示中文个人组合名称的方法，现在会显示成 ???）
-
-### 前置：
+## 前置：
 - [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26)
 - [REFramework D2D](https://www.nexusmods.com/monsterhunterrise/mods/134)
 
-### 安装方式：
+## 安装方式：
 1. 安装REFramework和REFramework D2D；
 2. 下载MOD；
 3. 将MOD解压缩后存放至Monster Hunter Rise根目录，即./reframework/autorun/itemSetAutoResupply.lua。
 
-### 如何使用：
+## 如何使用：
 - 首次使用：（1）打开REFramework菜单并且点击Script Generated UI，此时会打开一个新的窗口叫做Item Set Auto Resupply。（2）点击Reload Item Set List按钮读取已保存的道具个人组合。（3）在下拉框中选择一个你想要的道具组合，此时下拉框下方会显示“Item Set Has Been Set To [xxx]”，表明MOD已经设置成功！
 - 后续使用：因为已按照上述步骤设置完成，因此后续不需要做任何操作，MOD即可自动运行。
 
